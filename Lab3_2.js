@@ -18,6 +18,8 @@
             }
         }
         while (entry != 999); 
+        //change here
+        
 
         if (scores.length != 0) {
           // use a for loop to process the scores
